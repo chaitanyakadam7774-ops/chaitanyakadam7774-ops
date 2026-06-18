@@ -1,4 +1,4 @@
-# Your Name Here
+# Chaitanya Kadam
 
 ### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner"
 
@@ -6,8 +6,7 @@
 
 ## About Me
 
-Write 3–5 sentences about yourself here. Include your course, your college, what you enjoy building, and one fun fact.
-
+I am from sangamner.I have live in akole for my education.I like to play online coding games.
 ---
 
 ## Skills
@@ -17,7 +16,7 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 | Python       | Beginner     |
 | Git & GitHub | Beginner     |
 | Markdown     | Beginner     |
-| Add more...  | ...          |
+| C            | Beginner     |
 
 ---
 
@@ -31,12 +30,12 @@ Write 3–5 sentences about yourself here. Include your course, your college, wh
 
 ## Goals
 
-- What do you want to learn next? (be specific — e.g. "learn Python file I/O")
-- What project do you want to build?
+-Software enggineer
+-l want to learn trading
 - Any other goal...
 
 ---
 
 ## Find Me
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your-email@example.com)
+[Email](chaitanyakadam7774@gmail.com)
