@@ -1,6 +1,6 @@
 # Chaitanya Kadam
 
-### Your tagline here — e.g. "Aspiring developer | Polytechnic student | Python learner
+###  | Polytechnic student | Python learner
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_ck_2602) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyakadam7774@gmail.com) 
 
