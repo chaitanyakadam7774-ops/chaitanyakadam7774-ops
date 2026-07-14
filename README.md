@@ -19,7 +19,7 @@
 
 ## About Me
 
-"I am a final-year Computer Engineering diploma student with a strong foundation in hands-on software development and hardware troubleshooting. My technical training bridges the gap between coding theory and real-world implementation, specializing in Python, Java, and database management.Through intensive lab work and practical projects, I have built web applications, configured local networks, and mastered OS fundamentals. I am eager to apply my practical technical skillset to an entry-level developer, IT technician, or junior engineer role."
+"I am a final-year Computer Engineering diploma student with a strong foundation in hands-on software development. My technical training bridges the gap between coding theory and real-world implementation, specializing in Python,HTML,CSS,JS and database management.Through intensive lab work and practical projects, I have built web applications, configured local networks, and mastered OS fundamentals. I am eager to apply my practical technical skillset to an entry-level developer, IT technician, or junior engineer role."
 ---
 
 ## Skills
@@ -37,14 +37,13 @@
 
 - **Grade Buddy** — a command-line app that tracks test scores and generates a report card.
 - **GitHub Profile** — this very page, my first Markdown website.
-- Add more if you have them...
 
 ---
 
 ## Goals
 
 - Software enggineer
-- Learn Trading
+- Being a Trader
   
 ---
 
@@ -54,4 +53,4 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
