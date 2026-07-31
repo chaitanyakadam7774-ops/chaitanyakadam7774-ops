@@ -51,6 +51,29 @@
 
 [Email](chaitanyakadam7774@gmail.com)
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aesthetic Name Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+    <div class="container">
+        <h1>✨ Aesthetic Name Generator ✨</h1>
+
+        <p>Generate your aesthetic name</p>
+
+        <button onclick="generateName()">Generate Name</button>
+
+        <h2 id="result">Chaitanya</h2>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
 
 
