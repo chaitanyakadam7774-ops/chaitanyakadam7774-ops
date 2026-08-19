@@ -9,7 +9,7 @@ https://portfolio-project-peach-six.vercel.app/
 - ✨ Creating bugs since 2026
 - 📚 Currently learning:  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-B7410E?style=flat&logo=rust&logoColor=white" /> 
 - 🎯 Goals: live in a cold place ❄ and speak english 🚀
-- 🎲 And ... I play 🎸 guitar and 
+- 🎲 And ... I play 🎸 guitar 
 
 ###  | Polytechnic student | Python learner
 ## 🌐 Socials:
